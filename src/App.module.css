@@ -1,0 +1,22 @@
+.container {
+  min-height: 100vh;
+  background-color: #f8fafc;
+  padding: 32px;
+}
+
+.content {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.componentWrapper {
+  position: relative;
+  margin-bottom: 64px;
+}
+
+.indicatorsWrapper {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  margin-top: 12px;
+}
